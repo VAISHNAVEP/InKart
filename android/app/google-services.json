@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690546174648",
+    "firebase_url": "https://fir-inkart-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-inkart",
+    "storage_bucket": "fir-inkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690546174648:android:e118d41a289923b662a24d",
+        "android_client_info": {
+          "package_name": "com.firebaseinkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690546174648-ojin99b51h0vr65t39nlukgjjiqjc80d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseinkart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "690546174648-qa4gb1s9uv3549gujb5kob43ngsnh43o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-sPVh57VxKQ1L-VZtxA-_2UrnUtvdQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690546174648-qa4gb1s9uv3549gujb5kob43ngsnh43o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
